@@ -1,4 +1,4 @@
-package com.devamatre.appsuite.identity.entity;
+package com.rslakra.appsuite.identity.entity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -11,6 +11,8 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
-public class Identity extends AbstractEntity {
+public class Group {
+
+    private GroupType groupType;
 
 }

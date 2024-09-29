@@ -1,4 +1,4 @@
-package com.devamatre.appsuite.identity.enums;
+package com.rslakra.appsuite.identity.enums;
 
 /**
  * @author Rohtash Lakra

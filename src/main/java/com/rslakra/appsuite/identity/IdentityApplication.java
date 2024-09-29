@@ -1,4 +1,4 @@
-package com.devamatre.appsuite.identity;
+package com.rslakra.appsuite.identity;
 
 /**
  * @author Rohtash Lakra
